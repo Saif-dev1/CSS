@@ -1,0 +1,35 @@
+form{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+
+    text-align: center;
+    font-size: 40px;
+    color: rgb(206, 217, 228); 
+}
+body{
+    background-color:rgb(79, 138, 138);
+    color: rgb(26, 16, 3);
+
+}   
+div{
+    padding: 100px;
+    background-color: rgb(198, 185, 211);
+    grid-area:initial;
+    border:rgb(109, 99, 99) ;  
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    width: 60px;
+    height: 30px;
+}
+
+fieldset{
+    border: none;
+}
